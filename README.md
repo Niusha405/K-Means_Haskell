@@ -28,5 +28,7 @@ The input function is a list of points in R^2 that is entered in text format:
 
 `stack build --exec KmeansGloss-exe`
 
-## Run tests
+## Run tests:
+
+![Screenshot from 2020](https://user-images.githubusercontent.com/66936536/84694369-5705b580-af5e-11ea-8cbd-33cadca789d1.png)
 
